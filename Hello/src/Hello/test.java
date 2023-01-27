@@ -1,6 +1,6 @@
 package Hello;
 
-public class helloTest {
+public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
